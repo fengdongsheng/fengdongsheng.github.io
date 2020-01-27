@@ -1,0 +1,6 @@
+---
+title: "Sample Document"
+output: html_document
+bibliography: newbiblio.bib
+csl: apa.csl
+---
