@@ -2,7 +2,6 @@
 layout: post
 title:  "使用jekyll和github page 搭建博客"
 date:   2020-02-07 16:37:36 +0530
-categories:  博客
 ---
 
 * content
