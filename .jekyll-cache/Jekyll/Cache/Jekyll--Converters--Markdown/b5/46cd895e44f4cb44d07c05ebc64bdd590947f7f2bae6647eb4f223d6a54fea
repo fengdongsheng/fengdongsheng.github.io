@@ -1,4 +1,4 @@
-I"�<ul id="markdown-toc">
+I"�<ul id="markdown-toc">
   <li><a href="#简介" id="markdown-toc-简介">简介</a></li>
   <li><a href="#llvm的安装" id="markdown-toc-llvm的安装">LLVM的安装</a>    <ul>
       <li><a href="#llvm下载" id="markdown-toc-llvm下载">LLVM下载</a></li>
@@ -50,7 +50,7 @@
     然后点击Gparted主界面上的"√"号，应用全部。
     分配完成后如下图：
 
-    ![GParted](media/pics/Gparted.png)
+    ![GParted](/media/pics/Gparted.png)
 
 ②、后续内容是运行第一个LLVM提供的Pass例子。其后编写自己的Pass，并编译运行。
 </code></pre></div></div>

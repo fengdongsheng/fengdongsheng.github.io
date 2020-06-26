@@ -51,6 +51,6 @@ categories:  LLVM
         然后点击Gparted主界面上的"√"号，应用全部。
         分配完成后如下图：
 
-        ![GParted](media/pics/Gparted.png)
+        ![GParted]({{'/media/pics/Gparted.png' | prepend:site.baseurl}})
 
     ②、后续内容是运行第一个LLVM提供的Pass例子。其后编写自己的Pass，并编译运行。
